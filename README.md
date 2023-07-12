@@ -1,4 +1,5 @@
-![githubbanner](https://github.com/MarianaTellezR/MarianaTellezR/assets/84681760/877a8a20-311f-4ed0-ac80-d9ab91f1247f)
+
+![mtr_banner](https://github.com/MarianaTellezR/MarianaTellezR/assets/84681760/1b08701d-52fa-4f63-a5bd-7eeff06a72c3)
 
 <h1 align="center">Hi 👋, I'm Mariana Tellez Resendiz</h1>
 <h3 align="center">Front End Web Developer and Computer Systems Engineer</h3>
