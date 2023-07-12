@@ -1,4 +1,5 @@
-![Computer Systems Engineer and Front End Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![githubbanner](https://github.com/MarianaTellezR/MarianaTellezR/assets/84681760/877a8a20-311f-4ed0-ac80-d9ab91f1247f)
+
 <h1 align="center">Hi 👋, I'm Mariana Tellez Resendiz</h1>
 <h3 align="center">Front End Web Developer and Computer Systems Engineer</h3>
 
