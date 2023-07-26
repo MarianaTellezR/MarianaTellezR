@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on building Weather App using React  
 - 🌱 I’m currently learning React.js 
-- 💬 Ask me about HTML, CSS, Bootstrap, Python and React 
+- 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Python and React 
 - 📫 How to reach me: tellezresendizmariana@gmail.com 
 - ⚡ Fun fact: I love playing videogames.
 
