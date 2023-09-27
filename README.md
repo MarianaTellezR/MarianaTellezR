@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on building Payroll Tax Calculator using React  
+- 🔭 I’m currently working on building a Currency Converter using React  
 - 🌱 I’m currently learning React.js 
 - 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Python and React 
 - 📫 How to reach me: tellezresendizmariana@gmail.com 
