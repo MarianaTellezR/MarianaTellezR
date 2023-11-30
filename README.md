@@ -6,8 +6,8 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on building a Currency Converter using React  
-- 🌱 I’m currently learning React.js 
+- 🔭 I’m currently working on building an IP Lookup Web App using React  
+- 🌱 I’m currently learning React.js and Java
 - 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Python and React 
 - 📫 How to reach me: tellezresendizmariana@gmail.com 
 - ⚡ Fun fact: I love playing videogames.
