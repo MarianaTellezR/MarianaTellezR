@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on building an Recipes Website App using React  
+- 🔭 I’m currently working on building a News Website App using React  
 - 🌱 I’m currently learning React.js and Java
 - 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Python and React 
 - 📫 How to reach me: tellezresendizmariana@gmail.com 
